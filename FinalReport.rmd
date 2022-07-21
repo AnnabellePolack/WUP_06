@@ -80,6 +80,9 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+Using the numerical data that is based on the percentage of race, the white population favors it more than opposing, the black population opposes it more than favoring it, and the other population favors it more than opposing it. 
+Moving to the numerical data that is based on the percentage of favoring or opposing: 
+it seems that the white population favors it more than opposing, the black population opposes more than favoring, and the other population in this case opposes more than favoring (opposite the percentage based on race). 
 
 ## Inferential Results
 
