@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-Based on these graph (both count and percentage), it seems that the white population favors the proposition, while the black population opposes it more than favoring it, and the other population favors it more than opposing it.
+Based on the graphs, it looks like the white population is the one that favors the proposition the most (count), while the black population it looks like they favor and oppose it almost equally, and for the other population they favor more than oppose (but when it comes to count it is less than white but the percentage is almost equal). 
 
 ### Numerical Descriptive Results
 
